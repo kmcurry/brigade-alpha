@@ -8,4 +8,4 @@ if __name__ == '__main__':
 
     got = get(gdoc_url)
     cols = set(reader(StringIO(got.text)).next())
-    assert cols == set(['name', 'website', 'events_url', 'rss', 'projects_url'])
+    assert cols == set(['name', 'website', 'events_url', 'rss', 'projects_list_url'])
