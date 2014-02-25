@@ -9,3 +9,4 @@ Code for America website	The main Code for America website.	http://codeforameric
 Data Catalogs	Keeping track of government data catalogues	http://fips-lookup.herokuapp.com/	https://github.com/codeforamerica/data-catalogs	service	data
 FIPS Look Up	Find a fips code for a state, county, city, town etc.		https://github.com/codeforamerica/data-portal-info-collector	service	data
 Brigade Alpha	Building a new brigade website	http://brigade-alpha.codeforamerica.org	https://github.com/codeforamerica/brigade-alpha	website	community
+			https://github.com/open-city/chicago-river-sewage
